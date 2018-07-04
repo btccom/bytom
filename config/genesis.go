@@ -48,7 +48,7 @@ func mainNetGenesisBlock() *types.Block {
 			Height:    0,
 			Nonce:     9253507043297,
 			Timestamp: 1524549600,
-			Bits:      2525699024118946664,
+			Bits:      2305843009214532812,
 			BlockCommitment: types.BlockCommitment{
 				TransactionsMerkleRoot: merkleRoot,
 				TransactionStatusHash:  txStatusHash,
